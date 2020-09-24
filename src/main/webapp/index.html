@@ -4,12 +4,16 @@
         <title>Start Page</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
-    <body>
-        <h1>Hello World!</h1>
-		<form name="Form" action="/solocarpinteria" onsubmit="return validateForm()" method="get">
+    <body background="https://raw.githubusercontent.com/DonSantiagoS/LAB6CVDS/master/imagenes/letras.jpg">
+		<font color="green" size=50 face="Comic Sans MS,arial">
+        <h1 align="center" > Id to Latin!</h1>
+		</font>
+		<font color="olive" size=30 face="Comic Sans MS,arial">
+		<form  align="center" name="Form" action="/solocarpinteria" onsubmit="return validateForm()" method="get" >
 		Id: <input type="text" name="id">
 		<input type="submit" value="Submit">
 		</form>
+		</font>
 		<script>
 		function validateForm() {
 			var x = document.forms["Form"]["id"].value;
