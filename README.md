@@ -7,8 +7,8 @@
 
 ## Parte I. - Jugando a ser un cliente HTTP
 
-[![Codacy Badge](https://app.codacy.com/manual/DonSantiagoS/LAB6CVDS/dashboard)]
-[![CircleCI](https://app.circleci.com/pipelines/github/DonSantiagoS)]
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2e47eccde11947ba9922585fae70782a)](https://app.codacy.com/manual/DonSantiagoS/LAB6CVDS/dashboard)
+[![CircleCI](https://circleci.com/gh/MysticUnios1998/CVDS-Lab6_CI.svg?style=svg)](https://app.circleci.com/pipelines/github/DonSantiagoS)
 
 
 
