@@ -1,7 +1,7 @@
 
 # **Laboratorio N°6**
-##**CVDS-1**
-###**Ciclos de Vida del Desarrollo de Software**
+## **CVDS-1**
+### **Ciclos de Vida del Desarrollo de Software**
 
 ![](https://github.com/DonSantiagoS/LAB2CVDS/blob/master/Imagenes/Logo.png)
 
@@ -10,13 +10,13 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2e47eccde11947ba9922585fae70782a)](https://app.codacy.com/manual/DonSantiagoS/LAB6CVDS/dashboard)
 [![CircleCI](https://circleci.com/gh/MysticUnios1998/CVDS-Lab6_CI.svg?style=svg)](https://app.circleci.com/pipelines/github/DonSantiagoS)
 
-(Laboratorio 6 Heroku)[1]
+[Laboratorio 6 Heroku][1]
 
 ## Parte I. Integración continua
 
 Para este ejercicio haga uso de la versión funcional de su aplicación: la rama 'master' con la aplicación basada en un 'mock' de la lógica, o la versión completa (en caso de que ya la tenga) ya mezclada en la rama 'master'.
 
-1. Cree (si no la tiene aún) una cuenta en el proveedor PAAS (Heroku )[2]
+1. Cree (si no la tiene aún) una cuenta en el proveedor PAAS [Heroku][2]
 
 ![](https://github.com/DonSantiagoS/LAB6CVDS/blob/master/imagenes/imagen1.PNG)
 
